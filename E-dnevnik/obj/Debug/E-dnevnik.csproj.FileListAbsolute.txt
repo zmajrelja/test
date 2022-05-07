@@ -1,0 +1,16 @@
+D:\VisualStudio projects\E-dnevnik\bin\Debug\E-dnevnik.exe.config
+D:\VisualStudio projects\E-dnevnik\bin\Debug\E-dnevnik.exe
+D:\VisualStudio projects\E-dnevnik\bin\Debug\E-dnevnik.pdb
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E-dnevnik.csproj.AssemblyReference.cache
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E_dnevnik.Properties.Resources.resources
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E-dnevnik.csproj.GenerateResource.cache
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E-dnevnik.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E-dnevnik.exe
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E-dnevnik.pdb
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E_dnevnik.log_in.resources
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E_dnevnik.Main.resources
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E_dnevnik.Osoba.resources
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E_dnevnik.Sifarnik.resources
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E_dnevnik.Raspodela.resources
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E_dnevnik.Upisnica.resources
+D:\VisualStudio projects\E-dnevnik\obj\Debug\E_dnevnik.Ocena.resources
